@@ -1,0 +1,12 @@
+allprojects {
+    repositories {
+        // 使用阿里云镜像作为主仓库，速度快、覆盖全
+        maven { url 'https://maven.aliyun.com/repository/public/' }
+        // 如果你需要 Google 的依赖，可以加上这个
+        maven { url 'https://maven.aliyun.com/repository/google/' }
+        // 保留本地缓存仓库
+        mavenLocal()
+        // 保留中央仓库作为最终备用
+        mavenCentral()
+    }
+}

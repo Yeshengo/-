@@ -1,0 +1,13 @@
+pluginManagement {
+    repositories {
+        // 阿里云镜像加速
+        maven { url 'https://maven.aliyun.com/repository/gradle-plugin' }
+        maven { url 'https://maven.aliyun.com/repository/public' }
+        // 备用仓库
+        gradlePluginPortal()
+        mavenCentral()
+        maven { url = 'https://maven.neoforged.net/releases' }
+    }
+}
+
+rootProject.name = 'duocaoliuti-neoforge-1.21.1'

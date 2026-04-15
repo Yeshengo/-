@@ -1,0 +1,40 @@
+{
+  "mod.duocaoliuti": "多槽流体舱室",
+  "fml.menu.mods.info.description.duocaoliuti": "为现代工业化模组增加多槽流体输入/输出舱室",
+
+
+  "itemGroup.duocaoliuti": "多槽流体仓",
+  "block.duocaoliuti.bronze_fluid_input": "青铜多槽流体输入仓",
+  "block.duocaoliuti.bronze_fluid_output": "青铜多槽流体输出仓",
+  "block.duocaoliuti.steel_fluid_input": "钢多槽流体输入仓",
+  "block.duocaoliuti.steel_fluid_output": "钢多槽流体输出仓",
+  "block.duocaoliuti.advanced_fluid_input": "进阶多槽流体输入仓",
+  "block.duocaoliuti.advanced_fluid_output": "进阶多槽流体输出仓",
+  "block.duocaoliuti.turbo_fluid_input": "涡轮多槽流体输入仓",
+  "block.duocaoliuti.turbo_fluid_output": "涡轮多槽流体输出仓",
+  "block.duocaoliuti.elite_fluid_input": "高级多槽流体输入仓",
+  "block.duocaoliuti.elite_fluid_output": "高级多槽流体输出仓",
+
+
+  "block.modern_industrialization.bronze_fluid_input": "青铜多槽流体输入仓",
+  "block.modern_industrialization.bronze_fluid_output": "青铜多槽流体输出仓",
+  "block.modern_industrialization.steel_fluid_input": "钢多槽流体输入仓",
+  "block.modern_industrialization.steel_fluid_output": "钢多槽流体输出仓",
+  "block.modern_industrialization.advanced_fluid_input": "进阶多槽流体输入仓",
+  "block.modern_industrialization.advanced_fluid_output": "进阶多槽流体输出仓",
+  "block.modern_industrialization.turbo_fluid_input": "涡轮多槽流体输入仓",
+  "block.modern_industrialization.turbo_fluid_output": "涡轮多槽流体输出仓",
+  "block.modern_industrialization.elite_fluid_input": "高级多槽流体输入仓",
+  "block.modern_industrialization.elite_fluid_output": "高级多槽流体输出仓",
+
+
+  "block.duocaoliuti.example_block": "示例方块",
+  "item.duocaoliuti.example_item": "示例物品",
+  "duocaoliuti.configuration.title": "多槽流体舱室 配置",
+  "duocaoliuti.configuration.section.duocaoliuti.common.toml": "多槽流体舱室 通用配置",
+  "duocaoliuti.configuration.section.duocaoliuti.common.toml.title": "多槽流体舱室 通用配置",
+  "duocaoliuti.configuration.items": "物品列表",
+  "duocaoliuti.configuration.logDirtBlock": "记录泥土方块",
+  "duocaoliuti.configuration.magicNumberIntroduction": "魔法数字描述",
+  "duocaoliuti.configuration.magicNumber": "魔法数字"
+}
